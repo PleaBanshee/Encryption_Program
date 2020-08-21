@@ -1,0 +1,1 @@
+To encrypt data, attach a CryptoStream object to a stream. As you write data into the CryptoStream, it encrypts or decrypts the data and sends it on to the output stream.
